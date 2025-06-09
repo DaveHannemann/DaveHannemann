@@ -1,7 +1,7 @@
 <h1>Hey there, i am Dave 👋</h1>
 
 
-<div direction="column">
+<div flex-direction="column">
   📌 I'm a student software developer from Salzgitter
   👉 Check my projects here:
 </div>
