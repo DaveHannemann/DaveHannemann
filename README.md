@@ -1,6 +1,6 @@
-
-
-<h1 font-size=10px>Hey there, i am Dave 👋</h1>
+<p align="center">
+  <img src="./assets/header.svg" alt="Header" width="100%" />
+</p>
 
 
 <div flex-direction="column">
