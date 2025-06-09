@@ -20,18 +20,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div><br>
 
+<h2>About me</h2>
+  <div>
+    🪲 Creating Bugs since 2024
+    💬 Ask me about anything you wish to know, so we can help each other
+    🔭 I’m currently working on becoming a structured Developer
+    🎯 My goals are to learn and grow as much as possible
+    🌱 I’m currently learning on Frontend Development
+    ⚡ Fun fact: Played 19 Seasons of American Football
+  </div>
+
 <h2>Github Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaveHannemann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DaveHannemann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" style="border-color:00ff00" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveHannemann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <h2>📫 How to reach me:</h2>
   <a href= target="_blank" title="Mail Account" style="text-decoration: none">
-    <img src="./assets/icons/mail.png" width="32" height="32" alt="Mail" />
+    <img src="./assets/icons/mail.png" width="32" height="32" alt="Mail" style="margin-right:8px;" />
   </a>
-  <a href= target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
+  <a href= target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none ">
     <img src="./assets/icons/linkedIn.png" width="32" height="32" alt="LinkedIn"/>
   </a>
     <a href= target="_blank" title="Mein Discord-Profil" style="text-decoration: none">
@@ -47,17 +57,3 @@
 </picture>
 
 ###
-<!--
-**DaveHannemann/DaveHannemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--  ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
