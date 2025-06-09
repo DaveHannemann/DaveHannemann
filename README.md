@@ -1,7 +1,10 @@
-## Hey there, i am Dave 👋
+## <h1>Hey there, i am Dave 👋</h1>
 
-📌 I'm a student software developer from Salzgitter
-👉 Check my projects here:
+
+<div direction="column">
+  📌 I'm a student software developer from Salzgitter
+  👉 Check my projects here:
+</div>
 
 I code with
 <div align="left">
