@@ -1,10 +1,6 @@
-<style>
-  h1{
-    font-size: 64;
-  }
-</style>
 
-<h1>Hey there, i am Dave 👋</h1>
+
+<h1 font-size=10px>Hey there, i am Dave 👋</h1>
 
 
 <div flex-direction="column">
