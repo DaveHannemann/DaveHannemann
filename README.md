@@ -21,19 +21,19 @@
 </div><br>
 
 <h2>About me</h2>
-  <div>
-    🪲 Creating Bugs since 2024
-    💬 Ask me about anything you wish to know, so we can help each other
-    🔭 I’m currently working on becoming a structured Developer
-    🎯 My goals are to learn and grow as much as possible
-    🌱 I’m currently learning on Frontend Development
-    ⚡ Fun fact: Played 19 Seasons of American Football
+  <div style="border:1px solid #00ff00: padding:10px">
+    🪲 Creating Bugs since 2024 <br>
+    💬 Ask me about anything you wish to know, so we can help each other <br>
+    🔭 I’m currently working on becoming a structured Developer <br>
+    🎯 My goals are to learn and grow as much as possible <br>
+    🌱 I’m currently learning on Frontend Development <br>
+    ⚡ Fun fact: Played 19 Seasons of American Football <br>
   </div>
 
 <h2>Github Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaveHannemann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" style="border-color:00ff00" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DaveHannemann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" style="border-color:#00ff00" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveHannemann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
