@@ -46,7 +46,7 @@
     <img src="./assets/icons/linkedIn.png" width="32" height="32" alt="LinkedIn"/>
   </a>
     <a href= target="_blank" title="Mein Discord-Profil" style="text-decoration: none">
-    <img src="./assets/icons/discord.png" width="32" height="32" alt="Discord" />
+    <img src="./assets/icons/discord.png" width="32" height="32" alt="Discord" style="margin-left:8px;" />
   </a>
 </div><br>
 
