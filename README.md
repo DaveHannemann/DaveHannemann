@@ -37,7 +37,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveHannemann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div><br>
 
-<h2>📫 How to reach me:</h2>
+<div align="left">
+  <h2>📫 How to reach me:</h2>
     <a href= target="_blank" title="Mail Account" style="text-decoration: none">
     <img src="./assets/icons/mail.png" width="32" height="32" alt="Mail" style="margin-right:8px;" />
   </a>
@@ -46,7 +47,8 @@
   </a>
     <a href= target="_blank" title="Mein Discord-Profil" style="text-decoration: none">
     <img src="./assets/icons/discord.png" width="32" height="32" alt="Discord" />
-  </a><br>
+  </a>
+</div><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaveHannemann/DaveHannemann/output/pacman-contribution-graph-dark.svg">
