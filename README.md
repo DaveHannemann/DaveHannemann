@@ -38,17 +38,15 @@
 </div>
 
 <h2>📫 How to reach me:</h2>
-  <a href= target="_blank" title="Mail Account" style="text-decoration: none">
+    <a href= target="_blank" title="Mail Account" style="text-decoration: none">
     <img src="./assets/icons/mail.png" width="32" height="32" alt="Mail" style="margin-right:8px;" />
   </a>
-  <a href= target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none ">
+    <a href= target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none ">
     <img src="./assets/icons/linkedIn.png" width="32" height="32" alt="LinkedIn"/>
   </a>
     <a href= target="_blank" title="Mein Discord-Profil" style="text-decoration: none">
     <img src="./assets/icons/discord.png" width="32" height="32" alt="Discord" />
   </a>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaveHannemann/DaveHannemann/output/pacman-contribution-graph-dark.svg">
@@ -56,4 +54,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DaveHannemann/DaveHannemann/output/pacman-contribution-graph.svg">
 </picture>
 
-###
