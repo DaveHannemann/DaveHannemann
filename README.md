@@ -24,9 +24,9 @@
   <div style="border:1px solid #00ff00: padding:10px">
     🪲 Creating Bugs since 2024 <br>
     💬 Ask me about anything you wish to know, so we can help each other <br>
-    🔭 I’m currently working on becoming a structured Developer <br>
+    🔭 I’m a structured Frontend Developer <br>
     🎯 My goals are to learn and grow as much as possible <br>
-    🌱 I’m currently learning on Frontend Development <br>
+    🌱 I’m currently learning on Backend Development <br>
     ⚡ Fun fact: Played 19 Seasons of American Football <br>
   </div>
 
