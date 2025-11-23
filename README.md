@@ -7,9 +7,7 @@
 
 <div align="left">
   📌 I'm a software developer from Salzgitter <br>
-  👉 Check my projects here:   <a style="text-decoration:none" href="https://david-hannemann.de/" target="_blank" title="Portfolio">
-    Portfolio
-  </a>
+  👉 Check my projects here:  [Portfolio](https://david-hannemann.de/)
 </div>
 
 
