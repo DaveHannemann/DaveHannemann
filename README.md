@@ -6,8 +6,10 @@
 
 
 <div align="left">
-  📌 I'm a student software developer from Salzgitter <br>
-  👉 Check my projects here:
+  📌 I'm a software developer from Salzgitter <br>
+  👉 Check my projects here:   <a href="https://david-hannemann.de/" target="_blank" title="Portfolio">
+    Portfolio
+  </a>
 </div>
 
 
