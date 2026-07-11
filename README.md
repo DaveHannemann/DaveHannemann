@@ -6,58 +6,39 @@
 
 
 <div align="left">
-  📌 I'm a software developer from Salzgitter <br>
+  📌 I'm a software developer from Salzgitter, Germany <br>
   👉 Check my projects here:  [Portfolio](https://david-hannemann.de/)
 </div>
 
 <div align="left">
   <h2>I code with</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" style="margin-right:12px; vertical-align:middle;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" style="margin-right:12px; vertical-align:middle;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo" style="margin-right:12px; vertical-align:middle;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" style="margin-right:12px; vertical-align:middle;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="angularjs logo" style="margin-right:12px; vertical-align:middle;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo" style="margin-right:12px; vertical-align:middle;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="35" alt="materialui logo" style="margin-right:12px; vertical-align:middle;" />
-  <img width="12" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,css,django,docker,figma,firebase,html,js,linux,materialui,nginx,nodejs,postgres,postman,py,react,redis,sass,sqlite,tailwind,ts" />
+</p>
 </div><br>
 
 <h2>About me</h2>
   <div style="border:1px solid #00ff00: padding:10px">
     🪲 Creating Bugs since 2024 <br>
     💬 Ask me about anything you wish to know, so we can help each other <br>
-    🔭 I’m a structured Frontend Developer <br>
+    🔭 I’m a structured Fullstack Developer <br>
     🎯 My goals are to learn and grow as much as possible <br>
-    🌱 I’m currently learning on Backend Development <br>
+    🌱 I’m currently learning on DevSecOps Skills <br>
     ⚡ Fun fact: Played 19 Seasons of American Football <br>
   </div>
 
 <h2>Github Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaveHannemann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" style="border-color:#00ff00" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveHannemann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DaveHannemann&" alt="DaveHannemann" /></p>
 </div><br>
 
 <div align="left">
-  <h2>📫 How to reach me:</h2>
-  <a href="mailto:davidhannemanndev@gmail.com" target="_blank" title="Mail Account">
-    <img src="https://raw.githubusercontent.com/DaveHannemann/DaveHannemann/main/assets/icons/mail.png" width="32" height="32" alt="Mail" style="margin-right:8px;"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/david-hannemann-8698b636a" target="_blank" title="Mein LinkedIn-Profil">
-    <img src="https://raw.githubusercontent.com/DaveHannemann/DaveHannemann/main/assets/icons/linkedIn.png" width="32" height="32" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://discordapp.com/users/Dave117" target="_blank" title="Mein Discord-Profil">
-  <img src="https://raw.githubusercontent.com/DaveHannemann/DaveHannemann/main/assets/icons/discord.png" width="32" height="32" alt="Discord" style="margin-left:8px;"/>
-  </a>
+  <h2>📫 How to connect with me:</h2>
+<p align="left">
+<a href="https://github.com/DaveHannemann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DaveHannemann" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-hannemann-8698b636a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-hannemann-8698b636a/" height="30" width="40" /></a>
+</p>
 </div><br>
 
 <picture>
